@@ -1,10 +1,6 @@
 # Jyotirmoy Pathak - Full Stack Developer
 
 <p align="center">
-  <img src="https://github.com/j3pathak7/j3pathak7/blob/main/banner.png" alt="Banner">
-</p>
-
-<p align="center">
   <a href="https://www.linkedin.com/in/j3pathak7/">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
