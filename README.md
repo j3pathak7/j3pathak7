@@ -60,25 +60,12 @@ A dynamic website for The Car Store Guwahati, featuring both admin and user func
 
 - **Live Link**: https://thecarstoreguwahati.com/
 
-## GitHub Stats
-
-### GitHub Profile Stats
-[![Jyotirmoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=j3pathak7&show_icons=true&theme=radical)](https://github.com/j3pathak7)
-
-### Top Languages
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=j3pathak7&layout=compact&theme=radical)](https://github.com/j3pathak7)
-
-### GitHub Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=j3pathak7&theme=radical)](https://github.com/j3pathak7)
-
-### GitHub Activity Graph
-[![Jyotirmoy's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=j3pathak7&theme=react-dark)](https://github.com/j3pathak7)
-
-### GitHub Metrics
-[![Metrics](https://metrics.lecoq.io/j3pathak7?template=classic&base.header=0&base.activity=0&base.community=0&base.repositories=0&base.metadata=0&achievements=1&lines=1&achievements.threshold=C&achievements.secrets=true&achievements.display=detailed&achievements.limit=0&config.timezone=Asia%2FCalcutta)](https://github.com/j3pathak7)
-
-### GitHub Trophy
-[![Trophy](https://github-profile-trophy.vercel.app/?username=j3pathak7&theme=radical)](https://github.com/j3pathak7)
+## 📊 GitHub Stats
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=j3pathak7&show_icons=true&theme=radical" alt="GitHub Stats">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j3pathak7&theme=radical" alt="GitHub Streak">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3pathak7&layout=compact&theme=radical" alt="Top Languages">
+</p>
 
 ## 📫 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/j3pathak7/) or drop me an [email](mailto:jyotirmoypathak.37@gmail.com). I'm always excited to collaborate on new projects and learn from others in the tech community.
