@@ -28,10 +28,29 @@
 
   <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
-  <div>
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" alt="Frontend stack icons"/>
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" alt="Backend stack icons"/>
-  </div>
+<div>
+  <!-- Frontend -->
+  <h4>Frontend</h4>
+  <img src="https://skillicons.dev/icons?i=next,react,tailwind,mui,html,css" alt="Frontend stack icons"/>
+
+  <!-- Backend -->
+  <h4>Backend</h4>
+  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="Backend stack icons"/>
+
+  <!-- Database -->
+  <h4>Database</h4>
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,firebase" alt="Database icons"/>
+
+  <!-- Programming Languages -->
+  <h4>Programming Languages</h4>
+  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" alt="Programming language icons"/>
+
+  <!-- Tools & Others -->
+  <h4>Tools & Others</h4>
+  <img src="https://skillicons.dev/icons?i=vscode,github,git,docker" alt="Tools & other icons"/>
+</div>
+
+
 
   <hr/>
 
