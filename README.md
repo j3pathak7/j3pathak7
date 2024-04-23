@@ -61,11 +61,11 @@ A dynamic website for The Car Store Guwahati, featuring both admin and user func
 - **Live Link**: https://thecarstoreguwahati.com/
 
 ## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=j3pathak7&show_icons=true&theme=radical" alt="GitHub Stats">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=j3pathak7&theme=radical" alt="GitHub Streak">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=j3pathak7&layout=compact&theme=radical" alt="Top Languages">
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j3pathak7&show_icons=true&locale=en&layout=compact" alt="j3pathak7" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j3pathak7&show_icons=true&locale=en" alt="j3pathak7" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j3pathak7&" alt="j3pathak7" /></p>
 
 ## 📫 Contact
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/j3pathak7/) or drop me an [email](mailto:jyotirmoypathak.37@gmail.com). I'm always excited to collaborate on new projects and learn from others in the tech community.
