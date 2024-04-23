@@ -1,71 +1,85 @@
-# Jyotirmoy Pathak - Full Stack Developer
+<div align="center">
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=j3pathak7.j3pathak7" alt="visitor badge" align="right"/>
+  
+  <h1>
+    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Jyotirmoy+Pathak!;" alt="typing animation"/>
+  </h1>
+  
+  <h3>A passionate software developer from India 🇮🇳</h3>
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/j3pathak7/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
-  </a>
-  <a href="mailto:jyotirmoypathak.37@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
-  </a>
-  <a href="tel:+91-7002579048">
-    <img src="https://img.shields.io/badge/Phone-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Phone">
-  </a>
-</p>
+  <p>🔭 I’m currently working as a <strong>freelancer</strong><br/>
+  🌱 I’m currently learning <strong>Docker, Supabase, AWS</strong><br/>
+  💬 Ask me about <strong>Node.js, React, Firebase... or anything <a href="https://www.linkedin.com/in/j3pathak7/">here</a></strong><br/>
+  ⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs</p>
+  
+  <div>
+    <a href="mailto:jyotirmoypathak.37@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" alt="Gmail badge"/>
+    </a>
+    <a href="https://linkedin.com/in/j3pathak7" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn badge"/>
+    </a>
+    <a href="https://salesp07.github.io" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white" alt="Portfolio badge"/>
+    </a>
+  </div>
 
-## 🚀 About Me
-I'm a passionate full-stack developer with a strong background in various technologies and a keen interest in exploring the latest advancements in the field of computer science. I'm always eager to learn and collaborate on new projects.
+  <hr/>
 
-## 🔧 Tech Stack
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript">
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React">
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js">
-  <img src="https://img.shields.io/badge/Tailwind\_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS">
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI">
-  <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=white" alt="Firebase">
-</p>
+  <h2>⚒️ Languages-Frameworks-Tools ⚒️</h2>
 
+  <div>
+    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" alt="Frontend stack icons"/>
+    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" alt="Backend stack icons"/>
+  </div>
 
-## Projects
+  <hr/>
 
-Here are some notable projects I've worked on:
+  <h2>Projects</h2>
 
-### Government Policy Education AI Chatbot (Claude 3 - Opus, FastAPI, Next.js)
+  <div>
+    <h3>Government Policy Education AI Chatbot (Claude 3 - Opus, FastAPI, Next.js)</h3>
+    <p>This AI chatbot, powered by the Claude 3 language model, aims to simplify complex government policies and enhance citizens' understanding of civic issues. With its personalized assistance, the chatbot empowers users to easily access and comprehend government policies.</p>
+    <p><strong>Live Link:</strong> <a href="https://permissionless-two.vercel.app/">https://permissionless-two.vercel.app/</a></p>
+    <p><strong>GitHub Repository:</strong> <a href="https://github.com/j3pathak7/permissionless">https://github.com/j3pathak7/permissionless</a></p>
+  </div>
 
-This AI chatbot, powered by the Claude 3 language model, aims to simplify complex government policies and enhance citizens' understanding of civic issues. With its personalized assistance, the chatbot empowers users to easily access and comprehend government policies.
+  <div>
+    <h3>Data Cleaner (FastAPI, Next.js, Tailwind CSS)</h3>
+    <p>A user-friendly web application that allows users to upload data and perform cleaning operations through backend methods. Built with FastAPI for the backend, Next.js for the frontend, and Tailwind CSS for styling.</p>
+    <p><strong>Live Link:</strong> <a href="https://data-cleaner.vercel.app/">https://data-cleaner.vercel.app/</a></p>
+    <p><strong>GitHub Repository:</strong> <a href="https://github.com/j3pathak7/data-cleaner">https://github.com/j3pathak7/data-cleaner</a></p>
+  </div>
 
-- **Live Link**: https://permissionless-two.vercel.app/
-- **GitHub Repository**: https://github.com/j3pathak7/permissionless
+  <div>
+    <h3>News Article Sentiment Analysis (Flask, Vader, TextBlob, Next.js, Tailwind CSS)</h3>
+    <p>A sentiment analysis web application for news articles and product reviews, leveraging natural language processing (NLP) techniques with Vader and TextBlob. The user-friendly interface ensures seamless analysis.</p>
+    <p><strong>Live Link:</strong> <a href="https://sentiment-analysis-xi.vercel.app/">https://sentiment-analysis-xi.vercel.app/</a></p>
+    <p><strong>GitHub Repository:</strong> <a href="https://github.com/j3pathak7/sentimentAnalysis">https://github.com/j3pathak7/sentimentAnalysis</a></p>
+  </div>
 
-### Data Cleaner (FastAPI, Next.js, Tailwind CSS)
+  <div>
+    <h3>The Car Store Guwahati - Official Website (NextJS, Firebase)</h3>
+    <p>A dynamic website for The Car Store Guwahati, featuring both admin and user functionalities. The intuitive admin interface allows for easy content management, enhancing the user experience.</p>
+    <p><strong>Live Link:</strong> <a href="https://thecarstoreguwahati.com/">https://thecarstoreguwahati.com/</a></p>
+  </div>
 
-A user-friendly web application that allows users to upload data and perform cleaning operations through backend methods. Built with FastAPI for the backend, Next.js for the frontend, and Tailwind CSS for styling.
+  <hr/>
 
-- **Live Link**: https://data-cleaner.vercel.app/
-- **GitHub Repository**: https://github.com/j3pathak7/data-cleaner
+  <h2>GitHub Stats</h2>
 
-### News Article Sentiment Analysis (Flask, Vader, TextBlob, Next.js, Tailwind CSS)
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=j3pathak7&show_icons=true&locale=en&layout=compact" alt="Top Languages"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=j3pathak7&show_icons=true&locale=en" alt="GitHub Stats"/>
+  </div>
 
-A sentiment analysis web application for news articles and product reviews, leveraging natural language processing (NLP) techniques with Vader and TextBlob. The user-friendly interface ensures seamless analysis.
+  <div>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=j3pathak7&" alt="GitHub Streak"/>
+  </div>
 
-- **Live Link**: https://sentiment-analysis-xi.vercel.app/
-- **GitHub Repository**: https://github.com/j3pathak7/sentimentAnalysis
+  <hr/>
 
-### The Car Store Guwahati - Official Website (NextJS, Firebase)
+  <h2>Contact</h2>
 
-A dynamic website for The Car Store Guwahati, featuring both admin and user functionalities. The intuitive admin interface allows for easy content management, enhancing the user experience.
-
-- **Live Link**: https://thecarstoreguwahati.com/
-
-## 📊 GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=j3pathak7&show_icons=true&locale=en&layout=compact" alt="j3pathak7" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=j3pathak7&show_icons=true&locale=en" alt="j3pathak7" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=j3pathak7&" alt="j3pathak7" /></p>
-
-## 📫 Contact
-Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/j3pathak7/) or drop me an [email](mailto:jyotirmoypathak.37@gmail.com). I'm always excited to collaborate on new projects and learn from others in the tech community.
+  <p>Feel free to connect with me on <a href="https://www.linkedin.com/in/j3pathak7/">LinkedIn</a> or drop me an <a href="mailto:jyotirmoypathak.37@gmail.com">email</a>. I'm always excited to collaborate on new projects and learn from others in the tech community.</p>
+</div>
