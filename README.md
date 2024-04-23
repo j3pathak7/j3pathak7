@@ -35,12 +35,6 @@ I'm a passionate full-stack developer with a strong background in various techno
 - **[Sentiment Analysis Full Stack App](https://github.com/j3pathak7/sentimentAnalysis)** (Jan 2023 - May 2023)
 - **[Indian Sign Language Character Recognition](https://github.com/beyourownperfect/ISL)** (Oct 2022 - Mar 2023)
 
-## 🏆 Achievements
-- Led team to finals at national level Ethos Hackathon at IIT Guwahati (2023)
-- Member of the organizing team of Codestallion at AEC Guwahati (2022)
-- Awarded 5 stars in Python on the HackerRank platform
-- Secured First Division in Senior Diploma in Table from Nikhil Bharat Sangeet Samiti
-
 ## 📊 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=j3pathak7&show_icons=true&theme=radical" alt="GitHub Stats">
