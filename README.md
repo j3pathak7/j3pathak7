@@ -29,11 +29,36 @@ I'm a passionate full-stack developer with a strong background in various techno
 </p>
 
 
-## 💻 Projects
-- **[Website for Hotel Bordoichilla](https://bordoisila.vercel.app/)** (Aug 2022 - Aug 2022)
-- **[Personal Portfolio](https://jpportfolio-mauve.vercel.app/)** (July 2023)
-- **[Sentiment Analysis Full Stack App](https://github.com/j3pathak7/sentimentAnalysis)** (Jan 2023 - May 2023)
-- **[Indian Sign Language Character Recognition](https://github.com/beyourownperfect/ISL)** (Oct 2022 - Mar 2023)
+## Projects
+
+Here are some notable projects I've worked on:
+
+### Government Policy Education AI Chatbot (Claude 3 - Opus, FastAPI, Next.js)
+
+This AI chatbot, powered by the Claude 3 language model, aims to simplify complex government policies and enhance citizens' understanding of civic issues. With its personalized assistance, the chatbot empowers users to easily access and comprehend government policies.
+
+- **Live Link**: https://permissionless-two.vercel.app/
+- **GitHub Repository**: https://github.com/j3pathak7/permissionless
+
+### Data Cleaner (FastAPI, Next.js, Tailwind CSS)
+
+A user-friendly web application that allows users to upload data and perform cleaning operations through backend methods. Built with FastAPI for the backend, Next.js for the frontend, and Tailwind CSS for styling.
+
+- **Live Link**: https://data-cleaner.vercel.app/
+- **GitHub Repository**: https://github.com/j3pathak7/data-cleaner
+
+### News Article Sentiment Analysis (Flask, Vader, TextBlob, Next.js, Tailwind CSS)
+
+A sentiment analysis web application for news articles and product reviews, leveraging natural language processing (NLP) techniques with Vader and TextBlob. The user-friendly interface ensures seamless analysis.
+
+- **Live Link**: https://sentiment-analysis-xi.vercel.app/
+- **GitHub Repository**: https://github.com/j3pathak7/sentimentAnalysis
+
+### The Car Store Guwahati - Official Website (NextJS, Firebase)
+
+A dynamic website for The Car Store Guwahati, featuring both admin and user functionalities. The intuitive admin interface allows for easy content management, enhancing the user experience.
+
+- **Live Link**: https://thecarstoreguwahati.com/
 
 ## 📊 GitHub Stats
 <p align="center">
