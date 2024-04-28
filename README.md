@@ -8,7 +8,7 @@
   <h3>A passionate software developer from India 🇮🇳</h3>
 
   <p>🔭 I’m currently working as a <strong>freelancer</strong><br/>
-  🌱 I’m currently learning <strong>Docker, Supabase, AWS</strong><br/>
+  🌱 I’m currently learning <strong>Docker, Django, AWS</strong><br/>
   💬 Ask me about <strong>Node.js, React, Firebase... or anything <a href="https://www.linkedin.com/in/j3pathak7/">here</a></strong><br/>
   ⚡ Fun fact: Game of Thrones Night's Watch cloaks are made from Ikea rugs</p>
   
