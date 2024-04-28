@@ -39,7 +39,7 @@
 
   <!-- Backend -->
   <h4>Backend</h4>
-  <img src="https://skillicons.dev/icons?i=fastapi,flask,nodejs,express" alt="Backend stack icons"/>
+  <img src="https://skillicons.dev/icons?i=django,fastapi,flask,nodejs,express" alt="Backend stack icons"/>
 
   <!-- Database -->
   <h4>Database</h4>
@@ -47,7 +47,7 @@
 
   <!-- Programming Languages -->
   <h4>Programming Languages</h4>
-  <img src="https://skillicons.dev/icons?i=javascript,typescript,python" alt="Programming language icons"/>
+  <img src="https://skillicons.dev/icons?i=python,javascript,typescript" alt="Programming language icons"/>
 
   <!-- Tools & Others -->
   <h4>Tools & Others</h4>
